@@ -1,0 +1,1 @@
+export const GOOGLE_LOGO ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_tZW3uUsOscbezgRe_lC9-9f77ymTPHaUD_VHvEpoQLaZ7YfktFhhl1sD2djfFg1Dg&usqp=CAU";
